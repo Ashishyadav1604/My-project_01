@@ -705,6 +705,9 @@ footer {
   header nav .logo a {
     font-size: 28px;
   }
+  nav{
+    margin-right: 1.5rem;
+  }
   .Home .home-info .left h3 {
     font-size: 1.83em;
   }
