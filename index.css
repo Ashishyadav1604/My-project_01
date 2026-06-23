@@ -38,9 +38,9 @@ body.dark-mode {
 body {
   background-color: var(--bg-color);
 }
-body section {
+section {
   min-height: 100vh;
-  padding: 16rem 9% 2rem;
+  padding: 10rem 5% 2rem;
 }
 
 .container {
@@ -160,6 +160,11 @@ nav .list-darkmode-menu .mode input {
   75% {
     transform: rotate(25deg);
   }
+}
+
+button a{
+  color: white;
+  text-decoration: none;
 }
 nav .hamburger {
   position: relative;
@@ -711,7 +716,7 @@ footer {
   .Home .home-info .left h3 {
     font-size: 1.83em;
   }
-  .Home .home-info .left h1 {
+  .Home .home-info .left h1 { 
     font-size: 2.5em;
   }
   .Home .home-info .left h4 {

@@ -42,7 +42,7 @@ hamburger.addEventListener('click', () => {
 // multiple text
 
 const typed = new Typed('.multiple',{
-    strings: ['Front-End Developer','Web Designer','Youtuber'],
+    strings: ['Front-End Developer','Backend developer','Full-stack Developer'],
     typeSpeed:50,
     backSpeed:50,
     backDelay:1000,
